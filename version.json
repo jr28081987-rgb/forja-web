@@ -1,9 +1,9 @@
 {
-  "versao": 9,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-9.zip",
-  "checksum": "2a2888a5ba6dccac197f04b7aab0e7a01e917c3c7a2f37a6bf8094c23bd3fbdd",
+  "versao": 10,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-10.zip",
+  "checksum": "865c9610e212bbeeab6110fa74bf478e8fa881e0d6882e0678c5f552663059bb",
   "novidades": [
-    "Quando o Gemini está sobrecarregado, o app tenta de novo sozinho",
-    "Botão Tentar de novo na foto do prato e no Treinador"
+    "GitHub Models como reserva grátis da IA",
+    "Se o Gemini falhar, o app passa para o GitHub sozinho"
   ]
 }
