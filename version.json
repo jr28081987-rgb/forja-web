@@ -1,10 +1,10 @@
 {
-  "versao": 15,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-15.zip",
-  "checksum": "9229a126d4b97a06a8689102b690bac66f1aaf5e25024a8ea2c0d29d0ec5a4f9",
+  "versao": 16,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-16.zip",
+  "checksum": "d2dcf69df1a458f6a3b276d0c3f3b272c9b0aa447e6a09a67a92e8a352cef342",
   "novidades": [
-    "Cardápio diferente a cada dia, com mais alimentos",
-    "Em cada refeição: Comi isto, Comi outra coisa (escreva e a IA calcula) e Pular",
-    "O resto do dia se recalcula para fechar a meta"
+    "Cálculo de calorias mais conservador",
+    "Opção de definir a meta de calorias manualmente",
+    "Botão para descartar as marcações do treino"
   ]
 }
