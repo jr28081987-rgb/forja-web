@@ -1,11 +1,9 @@
 {
-  "versao": 11,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-11.zip",
-  "checksum": "a1f08094642492fcf75a3a63c8d9991be9b82902c0176ff6edc967e08e524f7e",
+  "versao": 12,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-12.zip",
+  "checksum": "2f5038b795924d06d16320e2184bb32a9ebf160e655bd39059bffc066eb98b98",
   "novidades": [
-    "63 exercícios novos: máquinas, polias e Smith",
-    "Preferência de equipamento: misto, mais máquinas ou mais pesos livres (Perfil → Refazer questionário)",
-    "Botão Adicionar exercício em cada treino",
-    "Opção de treino de 90 minutos"
+    "Foto do aparelho: a IA identifica o equipamento e ensina a usar",
+    "Botão para adicionar o exercício do aparelho ao treino"
   ]
 }
