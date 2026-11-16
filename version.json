@@ -1,9 +1,8 @@
 {
-  "versao": 13,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-13.zip",
-  "checksum": "a5f43e937916db49a26d5e2e795193386f607f1f986138c9c059ca598112d0a5",
+  "versao": 14,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-14.zip",
+  "checksum": "36043b98d8a86f61eb9f643faee5776896fb85d8d97748e5f2ae97f84bb5b672",
   "novidades": [
-    "Iniciante agora faz no mínimo 3 séries por exercício",
-    "Botões + série e − série em cada exercício"
+    "Preparação para o widget interativo (instale o APK novo para ver os botões)"
   ]
 }
