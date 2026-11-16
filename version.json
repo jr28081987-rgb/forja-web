@@ -1,9 +1,8 @@
 {
-  "versao": 4,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-4.zip",
+  "versao": 5,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-5.zip",
   "novidades": [
-    "Vários objetivos ao mesmo tempo",
-    "Foto do prato com IA e diário alimentar",
-    "Botão de atualizar o app"
+    "IA grátis: Gemini para a foto do prato",
+    "Chaves do Gemini e do Claude em Perfil → Inteligência artificial"
   ]
 }
