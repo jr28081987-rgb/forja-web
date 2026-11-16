@@ -1,9 +1,8 @@
 {
-  "versao": 5,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-5.zip",
-  "checksum": "f33fb02256925772e5edb294c24b1dfabf61caba10ce2dee485ae2aa731ee61d",
+  "versao": 6,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-6.zip",
+  "checksum": "5f3a3f0f93c8b7b147326204eb6ed30080911c48fd15475901f4f8fa9754645a",
   "novidades": [
-    "IA grátis: Gemini para a foto do prato",
-    "Chaves do Gemini e do Claude em Perfil → Inteligência artificial"
+    "Teste do botão de atualizar: se você está vendo versão 6, funcionou"
   ]
 }
