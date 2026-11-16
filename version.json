@@ -1,9 +1,11 @@
 {
-  "versao": 10,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-10.zip",
-  "checksum": "865c9610e212bbeeab6110fa74bf478e8fa881e0d6882e0678c5f552663059bb",
+  "versao": 11,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-11.zip",
+  "checksum": "a1f08094642492fcf75a3a63c8d9991be9b82902c0176ff6edc967e08e524f7e",
   "novidades": [
-    "GitHub Models como reserva grátis da IA",
-    "Se o Gemini falhar, o app passa para o GitHub sozinho"
+    "63 exercícios novos: máquinas, polias e Smith",
+    "Preferência de equipamento: misto, mais máquinas ou mais pesos livres (Perfil → Refazer questionário)",
+    "Botão Adicionar exercício em cada treino",
+    "Opção de treino de 90 minutos"
   ]
 }
