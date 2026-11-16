@@ -1,10 +1,9 @@
 {
-  "versao": 16,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-16.zip",
-  "checksum": "d2dcf69df1a458f6a3b276d0c3f3b272c9b0aa447e6a09a67a92e8a352cef342",
+  "versao": 17,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-17.zip",
+  "checksum": "dc6191a5b1dec3d8578eef629aac498cb248f0fb47dee94de9202d171e2002a8",
   "novidades": [
-    "Cálculo de calorias mais conservador",
-    "Opção de definir a meta de calorias manualmente",
-    "Botão para descartar as marcações do treino"
+    "Pular um exercício só hoje",
+    "Tirar um exercício do treino (com opção de restaurar)"
   ]
 }
