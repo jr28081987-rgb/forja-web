@@ -1,8 +1,10 @@
 {
-  "versao": 14,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-14.zip",
-  "checksum": "36043b98d8a86f61eb9f643faee5776896fb85d8d97748e5f2ae97f84bb5b672",
+  "versao": 15,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-15.zip",
+  "checksum": "9229a126d4b97a06a8689102b690bac66f1aaf5e25024a8ea2c0d29d0ec5a4f9",
   "novidades": [
-    "Preparação para o widget interativo (instale o APK novo para ver os botões)"
+    "Cardápio diferente a cada dia, com mais alimentos",
+    "Em cada refeição: Comi isto, Comi outra coisa (escreva e a IA calcula) e Pular",
+    "O resto do dia se recalcula para fechar a meta"
   ]
 }
