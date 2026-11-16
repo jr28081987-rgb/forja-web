@@ -1,9 +1,9 @@
 {
-  "versao": 12,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-12.zip",
-  "checksum": "2f5038b795924d06d16320e2184bb32a9ebf160e655bd39059bffc066eb98b98",
+  "versao": 13,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-13.zip",
+  "checksum": "a5f43e937916db49a26d5e2e795193386f607f1f986138c9c059ca598112d0a5",
   "novidades": [
-    "Foto do aparelho: a IA identifica o equipamento e ensina a usar",
-    "Botão para adicionar o exercício do aparelho ao treino"
+    "Iniciante agora faz no mínimo 3 séries por exercício",
+    "Botões + série e − série em cada exercício"
   ]
 }
