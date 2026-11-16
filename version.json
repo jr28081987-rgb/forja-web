@@ -1,9 +1,12 @@
 {
-  "versao": 7,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-7.zip",
-  "checksum": "81a5f063328dadbf1bcd02796c33a6882343bad914ba3a32806f5b00940544f9",
+  "versao": 8,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-8.zip",
+  "checksum": "6efa6d8b3008d10251b2639dc672c882458908e3810c47d438ed0eb48368f76b",
   "novidades": [
-    "Aceita a chave nova do Gemini (começa com AQ.)",
-    "Mensagem mais clara quando o Google recusa a chave"
+    "Treinador por chat com IA (nova aba)",
+    "Cardio com cronômetro e calorias",
+    "Check-in semanal que ajusta as calorias",
+    "XP, níveis, ligas e conquistas",
+    "Foto do prato mais rápida"
   ]
 }
