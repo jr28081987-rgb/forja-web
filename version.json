@@ -1,8 +1,9 @@
 {
-  "versao": 6,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-6.zip",
-  "checksum": "5f3a3f0f93c8b7b147326204eb6ed30080911c48fd15475901f4f8fa9754645a",
+  "versao": 7,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-7.zip",
+  "checksum": "81a5f063328dadbf1bcd02796c33a6882343bad914ba3a32806f5b00940544f9",
   "novidades": [
-    "Teste do botão de atualizar: se você está vendo versão 6, funcionou"
+    "Aceita a chave nova do Gemini (começa com AQ.)",
+    "Mensagem mais clara quando o Google recusa a chave"
   ]
 }
