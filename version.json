@@ -1,10 +1,8 @@
 {
-  "versao": 19,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-19.zip",
-  "checksum": "2993f2a70f11b8ac0bb863fb970f3b46d60b6c61c1c45a2510d39cddbc57dc65",
+  "versao": 20,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-20.zip",
+  "checksum": "d41ebe3cd0de271a3f6eaeaa01d9362b8d73482980c0db3915a39b6c014d0dbf",
   "novidades": [
-    "Número da máquina em cada exercício (toque para editar)",
-    "Ficha da academia: Treino 2 masculino e feminino prontos para adicionar",
-    "Importar ficha pela foto do ticket"
+    "A ficha da academia (Treino 2) entra sozinha na tela de treino, com os números das máquinas"
   ]
 }
