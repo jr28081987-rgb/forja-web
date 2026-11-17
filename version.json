@@ -1,9 +1,8 @@
 {
-  "versao": 21,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-21.zip",
-  "checksum": "d6b1bf69a1aed287f1bf61d225a6cca34ff13c4106734bb9ee5d25a75caf37d8",
+  "versao": 22,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-22.zip",
+  "checksum": "babf688a80f86c51eeba8be85c52ef31364b8ef6e288d8353a0d31a4cba04521",
   "novidades": [
-    "Ficha importada abre na hora na tela de treino",
-    "Opção de substituir a ficha anterior"
+    "Sábado e domingo aparecem como dias opcionais para treinar se quiser"
   ]
 }
