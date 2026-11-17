@@ -1,8 +1,9 @@
 {
-  "versao": 20,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-20.zip",
-  "checksum": "d41ebe3cd0de271a3f6eaeaa01d9362b8d73482980c0db3915a39b6c014d0dbf",
+  "versao": 21,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-21.zip",
+  "checksum": "d6b1bf69a1aed287f1bf61d225a6cca34ff13c4106734bb9ee5d25a75caf37d8",
   "novidades": [
-    "A ficha da academia (Treino 2) entra sozinha na tela de treino, com os números das máquinas"
+    "Ficha importada abre na hora na tela de treino",
+    "Opção de substituir a ficha anterior"
   ]
 }
