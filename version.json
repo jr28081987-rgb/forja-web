@@ -1,8 +1,9 @@
 {
-  "versao": 22,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-22.zip",
-  "checksum": "babf688a80f86c51eeba8be85c52ef31364b8ef6e288d8353a0d31a4cba04521",
+  "versao": 23,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-23.zip",
+  "checksum": "d6204bc5a6177fc30f83a769814416666d58a32ceb6d44b05282d5d5e7646e4e",
   "novidades": [
-    "Sábado e domingo aparecem como dias opcionais para treinar se quiser"
+    "A ficha da academia ocupa só o dia dela; nos outros dias o app monta treinos que alternam com ela (ex.: braço/superiores num dia, pernas no outro)",
+    "Ficha importada soma com as anteriores, cada uma em um dia"
   ]
 }
