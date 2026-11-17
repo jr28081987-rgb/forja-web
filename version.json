@@ -1,9 +1,8 @@
 {
-  "versao": 23,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-23.zip",
-  "checksum": "d6204bc5a6177fc30f83a769814416666d58a32ceb6d44b05282d5d5e7646e4e",
+  "versao": 24,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-24.zip",
+  "checksum": "9a2726d84909dfb794ee71e46e99f93958a74b743275d49d46190f142f45570d",
   "novidades": [
-    "A ficha da academia ocupa só o dia dela; nos outros dias o app monta treinos que alternam com ela (ex.: braço/superiores num dia, pernas no outro)",
-    "Ficha importada soma com as anteriores, cada uma em um dia"
+    "Exercícios na polia mostram as máquinas 1, 2 ou 3; puxadas mostram 8, 9 ou 11"
   ]
 }
