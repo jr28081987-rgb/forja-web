@@ -1,10 +1,10 @@
 {
-  "versao": 18,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-18.zip",
-  "checksum": "696443ab8972ddb353c0756f3fea3ef9a12d296aface0e349aac0300f2d93683",
+  "versao": 19,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-19.zip",
+  "checksum": "2993f2a70f11b8ac0bb863fb970f3b46d60b6c61c1c45a2510d39cddbc57dc65",
   "novidades": [
-    "Treino por dia da semana: escolha os dias em Perfil → Refazer questionário",
-    "Aviso de dia de descanso e de treino de hoje concluído",
-    "Pular exercício hoje e tirar do treino"
+    "Número da máquina em cada exercício (toque para editar)",
+    "Ficha da academia: Treino 2 masculino e feminino prontos para adicionar",
+    "Importar ficha pela foto do ticket"
   ]
 }
