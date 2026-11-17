@@ -1,9 +1,10 @@
 {
-  "versao": 17,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-17.zip",
-  "checksum": "dc6191a5b1dec3d8578eef629aac498cb248f0fb47dee94de9202d171e2002a8",
+  "versao": 18,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-18.zip",
+  "checksum": "696443ab8972ddb353c0756f3fea3ef9a12d296aface0e349aac0300f2d93683",
   "novidades": [
-    "Pular um exercício só hoje",
-    "Tirar um exercício do treino (com opção de restaurar)"
+    "Treino por dia da semana: escolha os dias em Perfil → Refazer questionário",
+    "Aviso de dia de descanso e de treino de hoje concluído",
+    "Pular exercício hoje e tirar do treino"
   ]
 }
