@@ -1,9 +1,8 @@
 {
-  "versao": 26,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-26.zip",
-  "checksum": "3c214cd90a785db0040ff1aac2967d903679686556db35c2780a407344d92f9d",
+  "versao": 27,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-27.zip",
+  "checksum": "274804968422ee1dd262975dcdcd766328fa1d42e3315e97b5233c435c7bdb7c",
   "novidades": [
-    "IA mais rápida: fotos menores, resposta mais curta e troca de modelo se travar",
-    "Perfil mostra quanto tempo a IA levou"
+    "Carga e repetições digitadas numa série são copiadas para as séries seguintes"
   ]
 }
