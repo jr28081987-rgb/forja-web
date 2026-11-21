@@ -1,10 +1,9 @@
 {
-  "versao": 25,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-25.zip",
-  "checksum": "460cd10b389ba4ef161ee9c6bbf5f5cc190a10844d52176db904e33083fa3e08",
+  "versao": 26,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-26.zip",
+  "checksum": "3c214cd90a785db0040ff1aac2967d903679686556db35c2780a407344d92f9d",
   "novidades": [
-    "Sugestão de carga e repetições para hoje (progressão automática)",
-    "Botão Máquina ocupada: troca só por hoje",
-    "Tela fica acesa durante o treino"
+    "IA mais rápida: fotos menores, resposta mais curta e troca de modelo se travar",
+    "Perfil mostra quanto tempo a IA levou"
   ]
 }
