@@ -1,10 +1,8 @@
 {
-  "versao": 28,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-28.zip",
-  "checksum": "f0a07bcf1ffe2222a34c0e28c02f4a5b5a0404f0fb1b6042c774ea9be8440591",
+  "versao": 29,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-29.zip",
+  "checksum": "e836008341711961a2e76b079a1aa1e65c190289770c611f7b1ae431a7a38e89",
   "novidades": [
-    "380 exercícios novos (total 502), com fotos e nomes em português",
-    "Busca no Adicionar exercício",
-    "Como fazer dos novos exercícios: botão Traduzir para português"
+    "Estatísticas: total levantado, mapa de dias treinados, séries por músculo, força estimada (1RM) por exercício, volume por treino e ritmo do peso"
   ]
 }
