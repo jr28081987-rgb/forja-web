@@ -1,8 +1,10 @@
 {
-  "versao": 27,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-27.zip",
-  "checksum": "274804968422ee1dd262975dcdcd766328fa1d42e3315e97b5233c435c7bdb7c",
+  "versao": 28,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-28.zip",
+  "checksum": "f0a07bcf1ffe2222a34c0e28c02f4a5b5a0404f0fb1b6042c774ea9be8440591",
   "novidades": [
-    "Carga e repetições digitadas numa série são copiadas para as séries seguintes"
+    "380 exercícios novos (total 502), com fotos e nomes em português",
+    "Busca no Adicionar exercício",
+    "Como fazer dos novos exercícios: botão Traduzir para português"
   ]
 }
