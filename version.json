@@ -1,8 +1,9 @@
 {
-  "versao": 29,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-29.zip",
-  "checksum": "e836008341711961a2e76b079a1aa1e65c190289770c611f7b1ae431a7a38e89",
+  "versao": 30,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-30.zip",
+  "checksum": "b713e0f1c0ebeefb649581bcad5ecf45434cbc4b05061fc61f50eb2e0b8120af",
   "novidades": [
-    "Estatísticas: total levantado, mapa de dias treinados, séries por músculo, força estimada (1RM) por exercício, volume por treino e ritmo do peso"
+    "Mapa do corpo nas estatísticas: volume, recuperação e músculos sem treino",
+    "Mini mapa do corpo no treino do dia"
   ]
 }
