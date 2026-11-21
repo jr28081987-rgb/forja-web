@@ -1,8 +1,10 @@
 {
-  "versao": 24,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-24.zip",
-  "checksum": "9a2726d84909dfb794ee71e46e99f93958a74b743275d49d46190f142f45570d",
+  "versao": 25,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-25.zip",
+  "checksum": "460cd10b389ba4ef161ee9c6bbf5f5cc190a10844d52176db904e33083fa3e08",
   "novidades": [
-    "Exercícios na polia mostram as máquinas 1, 2 ou 3; puxadas mostram 8, 9 ou 11"
+    "Sugestão de carga e repetições para hoje (progressão automática)",
+    "Botão Máquina ocupada: troca só por hoje",
+    "Tela fica acesa durante o treino"
   ]
 }
