@@ -1,9 +1,8 @@
 {
-  "versao": 30,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-30.zip",
-  "checksum": "b713e0f1c0ebeefb649581bcad5ecf45434cbc4b05061fc61f50eb2e0b8120af",
+  "versao": 31,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-31.zip",
+  "checksum": "3b6d83c526849527e1c4919f587981b2f008c640bfdae5d76c0d93acb4885ecf",
   "novidades": [
-    "Mapa do corpo nas estatísticas: volume, recuperação e músculos sem treino",
-    "Mini mapa do corpo no treino do dia"
+    "Conexão com o Strava (precisa do APK novo para conectar)"
   ]
 }
