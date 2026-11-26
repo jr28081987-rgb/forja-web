@@ -1,8 +1,9 @@
 {
-  "versao": 31,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-31.zip",
-  "checksum": "3b6d83c526849527e1c4919f587981b2f008c640bfdae5d76c0d93acb4885ecf",
+  "versao": 32,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-32.zip",
+  "checksum": "73658a0c7d333c815d82e71d6aa1addf06741be580aa15a919132c13b5b6da3f",
   "novidades": [
-    "Conexão com o Strava (precisa do APK novo para conectar)"
+    "Trocar treino do dia: escolha qual treino fazer em qualquer dia (faltou, adiantou, fim de semana)",
+    "Fichas salvas: escolha quais ficam na semana e quais ficam guardadas"
   ]
 }
