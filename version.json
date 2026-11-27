@@ -1,9 +1,9 @@
 {
-  "versao": 33,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-33.zip",
-  "checksum": "691ddf1274800430507123f18db6f8179b3c77908328352c9bdc6814794f44f4",
+  "versao": 34,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-34.zip",
+  "checksum": "80f59d5e210bda859e57800e4749b729064d75b7a11a7c8030e256b8efde7b50",
   "novidades": [
-    "Busca de exercício por nome ou número da máquina",
-    "Treinador monta o treino do dia: peça no chat e toque em Usar como treino de hoje"
+    "Ficha da academia: exercício que não está no app é criado automaticamente",
+    "Busca sem resultado: crie o exercício na hora"
   ]
 }
