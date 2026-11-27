@@ -1,9 +1,9 @@
 {
-  "versao": 32,
-  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-32.zip",
-  "checksum": "73658a0c7d333c815d82e71d6aa1addf06741be580aa15a919132c13b5b6da3f",
+  "versao": 33,
+  "url": "https://jr28081987-rgb.github.io/forja-web/updates/forja-33.zip",
+  "checksum": "691ddf1274800430507123f18db6f8179b3c77908328352c9bdc6814794f44f4",
   "novidades": [
-    "Trocar treino do dia: escolha qual treino fazer em qualquer dia (faltou, adiantou, fim de semana)",
-    "Fichas salvas: escolha quais ficam na semana e quais ficam guardadas"
+    "Busca de exercício por nome ou número da máquina",
+    "Treinador monta o treino do dia: peça no chat e toque em Usar como treino de hoje"
   ]
 }
